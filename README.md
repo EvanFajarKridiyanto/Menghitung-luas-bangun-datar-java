@@ -1,1 +1,1 @@
-# Menghitung-luas-bangun-datar-java menggunakan if else
+# Menghitung luas bangun datar java menggunakan if else
